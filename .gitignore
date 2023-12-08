@@ -1,1 +1,5 @@
 /data/*
+/CNN/.ipynb_checkpoints/*
+/LSTM/.ipynb_checkpoints/*
+/Transformer/.ipynb_checkpoints/*
+/saved_models/*
